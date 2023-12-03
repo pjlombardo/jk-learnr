@@ -1,4 +1,4 @@
-Git repository containing files to build a docker image with shiny-server and `learnr` designed for a bio-informatics course, designed for and with Dr. Jess Kaufmann.
+Git repository containing files to build a docker image with shiny-server and `learnr` lessons for a bio-informatics course, designed for and with Dr. Jess Kaufmann.
 
 Lessons include:
 
