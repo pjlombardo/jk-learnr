@@ -1,4 +1,4 @@
-Git Repository for LearnR lessons designed for a bio-informatics course.
+Git repository containing files to build a docker image with shiny-server and `learnr` designed for a bio-informatics course, designed for and with Dr. Jess Kaufmann.
 
 Lessons include:
 
@@ -6,5 +6,4 @@ Lessons include:
     * A follow-up lesson applying logical vectors to filtering rows of a data frame: `filtering`.
 * A lesson building on logical vectors and grepl() to do an application on 23 and Me data: `23nMe`
 
-For those hosting these lessons on a shiny server, please note that the files must be *locally rendered* to create the .HTML-file before they will work.
-
+Keeping in mind that the `learnr` lesson files must be *locally rendered* to create the .HTML-file before they will work, the docker build runs a script to create these files.
